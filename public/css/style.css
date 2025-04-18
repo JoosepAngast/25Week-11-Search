@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 2rem auto;
+    width: 75%;
+}
+
+.form-container {
+    width: 75%;
+    text-align: center;
+    margin: 2rem auto;
+}
+
+form {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.result-container {
+    text-align: center;
+}
+
+.movie-data-list {
+    list-style: none;
+    line-height: 2rem;
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    width: 50%;
+    border-radius: 5px;
+}
